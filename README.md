@@ -98,7 +98,7 @@ Responses
 ```
 
 ### Top transaction per user
-#### GET /balance_topup
+#### GET /top_transactions_per_user
 Header
 ```
 Authorization: "Bearer 123123"
@@ -116,7 +116,7 @@ Responses
 ```
 
 ### Top debit transaction per user
-#### GET /balance_topup
+#### GET /top_users
 Header
 ```
 Authorization: "Bearer 123123"
