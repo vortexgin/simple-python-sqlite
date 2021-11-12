@@ -1,0 +1,6 @@
+flask
+marshmallow
+python-slugify
+flask-jwt-extended
+flask-cors
+requests
